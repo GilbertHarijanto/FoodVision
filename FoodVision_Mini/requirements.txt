@@ -1,0 +1,8 @@
+torch
+torchvision
+gradio
+huggingface-hub>=0.19
+hf-transfer>=0.1.4
+protobuf<4
+click<8.1
+pydantic~=1.0
