@@ -13,7 +13,7 @@
 
 - **Comprehensive Food Recognition:** Capable of identifying a wide variety of food categories.
 - **Efficient Performance:** Maintains a small footprint while handling complex multi-class classification.
-- **Data Augmentation:** Uses advanced augmentation (`TrivialAugmentWide`) to enhance model robustness.
+- **Data Augmentation:** Uses State-of-the-Art data augmentation (`TrivialAugmentWide`) to enhance model robustness.
 - **Deployment Ready:** Comes with a Gradio demo for interactive usage and is packaged for cloud deployment (e.g., on HuggingFace Spaces).
 
 ## Project Structure
@@ -22,18 +22,3 @@
 - **Training Pipeline:** Custom training loops with an optimizer, learning rate scheduler (`ReduceLROnPlateau`), and label smoothing to tackle the challenges of 101 classes.
 - **Evaluation:** Includes tools to plot loss/accuracy curves and benchmark inference speed.
 - **Deployment:** Packaged as a deployable Gradio app with instructions for local testing and cloud deployment.
-
-## Setup & Usage
-
-1. **Install Dependencies:**
-   ```bash
-   pip install torch torchvision torchinfo matplotlib pillow tqdm gradio requests
-   ```
-2. **Training**: Run the training scripts (or notebook) to train the model on the Food-101 dataset.
-3. **Running the Demo**:
-   - Start the Gradio interface with:
-     ```bash
-     python app.py
-     ```
-   - Access the demo via the provided URL for an interactive experience.
-4. **Deployment**: Follow the included instructions to deploy on platforms like HuggingFace Spaces.
