@@ -13,7 +13,7 @@ Check out our interactive demo on [HuggingFace Spaces](https://huggingface.co/sp
 Each project has its own README with detailed instructions for training, evaluation, and deployment. Below you will find links to each project's documentation:
 
 - [FoodVision Big README](./FoodVisionBig/README.md)
-- [FoodVision Mini README](./FoodVision_Mini/README.md)
+- [FoodVision Mini README](./FoodVisionMini/README.md)
 - [ViT Paper Replicating README](./PyTorch-ViT-Paper-Replicating/README.md)
 
 ---
