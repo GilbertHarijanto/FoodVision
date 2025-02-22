@@ -4,7 +4,7 @@ Welcome to **FoodVision** – a suite of mobile-friendly food classification pro
 - **FoodVision Mini:** A lightweight EfficientNetB2 model trained on a 3-class subset (Pizza, Steak, Sushi) optimized for speed and high accuracy.
 - **ViT Paper Replicating:** A replication of the Vision Transformer (ViT) architecture on a 3-class subset of Food-101, following the original ["An Image is Worth 16x16 Words"](https://arxiv.org/abs/2010.11929) paper.
 
-<img src="https://raw.githubusercontent.com/GilbertHarijanto/PyTorch-ViT-Paper-Replicating/main/steak.jpg" alt="FoodVision" style="max-width:300px; display:block; margin: 0 auto;" />
+<img src="https://raw.githubusercontent.com/GilbertHarijanto/FoodVision/main/images/FoodVision-HF.png" alt="FoodVision" style="max-width:150px; display:block; margin: 0 auto;" />
 
 Each project has its own README with detailed instructions for training, evaluation, and deployment. Below you will find links to each project's documentation:
 
