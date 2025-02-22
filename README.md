@@ -1,3 +1,5 @@
+# FoodVision Projects Overview
+
 <img src="https://raw.githubusercontent.com/GilbertHarijanto/FoodVision/main/images/FoodVision-HF.png" alt="FoodVision" style="max-width:150px; display:block; margin: 0 auto;" />
 
 Welcome to **FoodVision** – a suite of mobile-friendly food classification projects that leverage state-of-the-art deep learning models for efficient and accurate image recognition. This repository contains three related projects:
